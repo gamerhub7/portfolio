@@ -111,31 +111,31 @@ export const info = {
     ],
     portfolio: [ // This is where your portfolio projects will be detailed
         {
-            title: "Project 1",
+            title: "iphone15",
             live: "https://myphone-nine.vercel.app/", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
             source: "https://github.com/gamerhub7", // this should be a link to the **repository** of the project, where the code is hosted.
             image: mock1
         },
         {
-            title: "Project 2",
-            live: "",
+            title: "explore food",
+            live: "https://explore-taste.vercel.app/",
             source: "https://github.com/gamerhub7",
             image: mock2
         },
         {
-            title: "Project 3",
-            live: "",
+            title: "Homenetics website",
+            live: "https://www.homenetics.in/",
             source: "https://github.com/gamerhub7",
             image: mock3
         },
         {
-            title: "Project 4",
+            title: "upcomming",
             live: "",
             source: "https://github.com/gamerhub7",
             image: mock4
         },
         {
-            title: "Project 5",
+            title: "upcoming",
             live: "",
             source: "https://github.com/gamerhub7",
             image: mock5
